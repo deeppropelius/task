@@ -1,0 +1,55 @@
+{
+  "source": {
+    "fileKey": "Jnvqe8CUp89OBk2iyyBzvW",
+    "nodeId": "108:84",
+    "name": "Travel Agency Landing Page UI",
+    "frame": { "x": 1035, "y": -385, "width": 1440, "height": 4774 }
+  },
+  "fonts": [
+    { "family": "Poppins", "weights": [400, 500, 600, 700], "stylesUsed": ["Regular", "Medium", "SemiBold", "Bold"] },
+    { "family": "Volkhov", "weights": [700], "stylesUsed": ["Bold"] },
+    { "family": "Open Sans", "weights": [400, 600], "stylesUsed": ["Regular", "Semibold"] },
+    { "family": "Montserrat", "weights": [400], "stylesUsed": ["Regular"] },
+    { "family": "Roboto", "weights": [400], "stylesUsed": ["Regular"] },
+    { "family": "Gilroy-ExtraBold", "weights": [], "stylesUsed": ["Gilroy-ExtraBold"] }
+  ],
+  "colors": {
+    "primaryPurple": "#8A79DF",
+    "blue": "#4152CA",
+    "yellow": "#F0BB1F",
+    "orange": "#F15A2B",
+    "teal": "#006380",
+    "textHeading": "#14183E",
+    "textDark": "#181E4B",
+    "text": "#5E6282",
+    "textSecondary": "#84829A",
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "border": "#F7F7F7",
+    "lightPurple": "#DFD7F9",
+    "circle": "#F5F5F5"
+  },
+  "sections": [
+    { "name": "Hero", "x": -420, "y": -149, "width": 1922.3069, "height": 1018 },
+    { "name": "Services", "x": 154, "y": 966, "width": 1228, "height": 525 },
+    { "name": "Destinations", "x": 173, "y": 1614, "width": 1102, "height": 617 },
+    { "name": "Book a trip", "x": 186, "y": 2417, "width": 1114, "height": 492 },
+    { "name": "Testimonials", "x": 186, "y": 3109, "width": 1165, "height": 356 },
+    { "name": "Logos", "x": 186, "y": 3561, "width": 1073, "height": 162 },
+    { "name": "Subscribe", "x": 48, "y": 3834, "width": 1356, "height": 490 },
+    { "name": "Footer", "x": 186, "y": 4420, "width": 1617.9446, "height": 633.8643 }
+  ],
+  "typographySamples": [
+    { "node": "Hero heading", "font": "Volkhov Bold", "size": 84, "lineHeight": 89, "x": 150, "y": 271, "width": 545, "height": 267 },
+    { "node": "Hero tagline", "font": "Poppins Bold", "size": 20, "lineHeight": 30, "x": 150, "y": 217, "width": 410, "height": 30 },
+    { "node": "Section heading", "font": "Volkhov Bold", "size": 50, "lineHeight": "normal", "x": 490, "y": 1649, "width": 418, "height": 65 },
+    { "node": "Section label", "font": "Poppins SemiBold", "size": 18, "lineHeight": "normal" },
+    { "node": "Body", "font": "Poppins Regular", "size": 16, "lineHeight": 19.92 },
+    { "node": "Navigation", "font": "Poppins Medium", "size": 17, "lineHeight": 21.17 },
+    { "node": "Subscribe heading", "font": "Poppins SemiBold", "size": 33, "lineHeight": 54, "x": 280, "y": 3926, "width": 881, "height": 108 }
+  ],
+  "assetFiles": [
+    "background.png", "hero-traveller.png", "destination-rome.png", "destination-london.png", "destination-europe.png", "testimonial-avatar.png", "trip-greece.png", "trip-rome-avatar.png", "logo-image-27.png", "logo-image-28.png", "logo-image-29.png", "logo-image-30.png", "logo-image-31.png", "image-25.png", "image-33.png", "decore.svg", "social.svg", "social-instagram.svg", "group.svg", "group-1.svg", "group-2.svg", "google-play.svg", "group-3.svg", "vector.svg", "group-42.svg", "group-43.svg", "group-44.svg", "group-45.svg", "group-46.svg", "group-77.svg", "group-61.svg", "pagination.svg", "group-589.svg", "ellipse-4.svg", "group-4.svg", "group-5.svg", "send.svg", "group-6.svg", "group-7.svg", "line-3.svg", "ellipse-6.svg", "image-32.svg", "group-8.svg", "group-9.svg", "taxi-car.svg", "water-sport.svg", "decore-1.svg", "navigation.svg", "group-10.svg", "group-11.svg", "group-12.svg", "decore-2.svg", "logo.svg", "vector-1.svg", "play-button.svg", "decore-3.svg"
+  ],
+  "assetSource": "Figma MCP asset URLs are short-lived; local copies are stored in assets/."
+}

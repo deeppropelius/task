@@ -1,0 +1,13 @@
+<symbol id="108:84" name="Travel Agency Landing Page UI" x="1035" y="-385" width="1440" height="4774">
+  <frame id="1:501" name="footer" x="186" y="4420" width="1617.944580078125" height="633.8642578125" />
+  <frame id="1:440" name="subscribe section" x="48" y="3834" width="1356" height="490" />
+  <frame id="1:432" name="logos" x="186" y="3561" width="1073" height="162" />
+  <frame id="1:411" name="testimonials section" x="186" y="3109" width="1165" height="356" />
+  <frame id="1:188" name="Book a trip" x="186" y="2417" width="1114" height="492" />
+  <frame id="1:154" name="Destinations" x="173" y="1614" width="1102" height="617" />
+  <frame id="1:300" name="Services" x="154" y="966" width="1228" height="525" />
+  <frame id="108:63" name="Hero" x="-420" y="-149" width="1922.306884765625" height="1018" />
+</symbol>
+
+<!-- Full child layer bounds and names are captured in design-data.json and the Figma design context source. -->
+<!-- Coordinate system: source node coordinates, with x/y as top-left and width/height as layer bounds. -->

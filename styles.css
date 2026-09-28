@@ -1,0 +1,250 @@
+
+
+body{
+    max-width: 1440px;
+    display: block;
+    padding : 1rem 5rem;
+    margin: auto auto;
+    position: relative;
+    
+}
+.image{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    overflow:hidden;
+    object-fit:fill;
+    height: 40%;
+    width: 50%;
+    z-index: -1;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.navbar{
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: nowrap;
+    background-color: none;
+    align-items: center;
+    z-index: 3;
+    backdrop-filter: blur(8px);
+    margin: 0;
+}
+.navlogo{
+    width: 10%;
+    padding: 0% 7%;
+    height:5%;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.navlogo img{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+.navitems{
+    width: 80%;
+    display: flex;
+    
+}
+.navitems ul{
+     width: 100%;
+     display: flex;
+     justify-content:space-evenly;
+
+}
+.navitems ul li{
+    
+    list-style: none;
+   
+}
+
+.navlink{
+    font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+        text-decoration: none;
+        color: black;
+}
+.navitems button{
+    background-color: rgba(255, 0, 0, 0);
+    padding: 4px 10px;
+    border-radius: 5px;
+    border: 1.3px solid black;
+
+}
+.navitems select{
+    border :none;
+    background-color: rgba(0, 0, 0, 0);
+}
+.destinations{
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-top: 5%;
+    
+}
+.dtexts{
+    width: 50%;
+}
+.dtexts h4{
+ font-family: 'Poppins',sans-serif;
+ text-transform: uppercase;
+ color: red;
+}
+.dtexts h1{
+    margin-top: 0px;
+    font-family: "Volkhov" ,sans-serif;
+font-size: clamp(1rem, 10vh, 4rem);
+    
+    color: #181E4B;
+    line-height: 5rem;
+}
+
+.dimgs{
+
+    width: 50%;
+    aspect-ratio: 3/2;
+}
+.dimgs img{
+    width: 100%;
+    object-fit: contain;
+}
+.girl{
+    aspect-ratio: 1/1;
+    height: 100%;   
+}
+.dtexts p{
+    width: 80%;
+     font-family: 'Poppins',sans-serif;
+
+}
+.dbutton{
+    display: flex;
+    left: 70%;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.dobut{
+    background-color: #F1A501;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Open san', sans-serif;
+    border: none;
+    padding: 1rem;
+    align-items: center;
+    box-shadow:  0 10px 25px #F1A501 ;
+    text-wrap: nowrap;
+
+}
+.drbut{
+    background-color: #DF6951;
+    border-radius: 50%;
+    color: white;
+    border: none;
+    padding: 1rem;
+    align-items: center;
+    font-size: larger;
+    aspect-ratio: 1/1;
+    box-shadow:  0 10px 25px #DF6951 ;
+}
+.playdemo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.playdemo p{
+    width: 40%;
+ font-family: 'Poppins',sans-serif;
+
+}
+.second
+{
+    margin-top: 5%;
+}
+.sec{
+
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Volkhov', sans-serif;
+}
+.sec h3{
+
+    font-size: 65px;
+     font-family: 'Volkhov', sans-serif;
+}
+.sec p{
+    color: #5E6282;
+    font-family: "poppins", sans-serif;
+    text-transform: uppercase;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    
+}
+.card{
+    margin: 4%;
+    width: 15%;
+    padding: 1.5%;
+    border-radius: 10px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    height:20rem;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    position: relative;
+    height: fit-content;
+
+}
+
+.cimg{
+    width: 50%;
+    aspect-ratio: 1/1;
+}
+.cimg img{
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+.rblock{
+    width: 50%;
+    aspect-ratio: 1/1;
+    z-index: -3;
+    position: absolute;
+    background-color: #DF6951;
+    bottom: -12%;
+    left: -18%;
+    border-top-left-radius:30%;
+    border-bottom-right-radius: 10%;
+}
+.card h4{
+ font-family: "open san", sans-serif;
+}
+.card p{
+    font-family: "Poppins" , sans-serif;
+    color: #5E6282;
+    font-size: small;
+
+}
+
+
+
+/*-----------------Third section------------------------------*/
+.third{
+    margin: 5%;
+}

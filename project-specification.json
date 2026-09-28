@@ -1,0 +1,505 @@
+{
+  "projectOverview": {
+    "projectName": "Jadoo Travel Agency Landing Page",
+    "pageType": "Travel booking and destination discovery landing page",
+    "purpose": "Present a travel agency, promote destinations and services, explain the booking process, show customer feedback, and encourage visitors to subscribe.",
+    "visualDirection": "Elegant editorial travel interface with a light background, warm orange calls to action, purple accents, destination photography, soft shadows, and decorative geometric details.",
+    "primaryAudience": "People researching and booking leisure travel."
+  },
+  "pageDimensions": {
+    "designWidth": "1440px",
+    "designHeight": "4774px",
+    "designWidthRem": "90rem",
+    "designHeightRem": "298.375rem",
+    "remBase": "1rem = 16px",
+    "contentAlignment": "Most content is centered inside a wide desktop canvas with a primary content area beginning around 148px to 186px from the left edge.",
+    "coordinateNote": "The Figma design contains decorative layers that extend beyond the visible page bounds. Negative positions are intentional for those decorative layers."
+  },
+  "pageSections": [
+    {
+      "order": 1,
+      "name": "Hero",
+      "purpose": "Introduce the travel service, communicate the main value proposition, and provide the first booking-related actions.",
+      "approximateBounds": {
+        "left": "-420px (-26.25rem)",
+        "top": "-149px (-9.3125rem)",
+        "width": "1922.31px (120.1444rem)",
+        "height": "1018px (63.625rem)"
+      },
+      "layout": "Two-column desktop composition. Navigation sits at the top. Text content occupies the left side and a large traveller illustration occupies the right side.",
+      "visualStyling": "White or very light background with pale decorative shapes and a large angled purple decoration toward the upper-right area.",
+      "childElements": [
+        "Top navigation",
+        "Jadoo logo",
+        "Hero eyebrow text",
+        "Large travel headline",
+        "Short supporting paragraph",
+        "Find out more button",
+        "Play demo control",
+        "Traveller illustration",
+        "Small airplane illustrations"
+      ]
+    },
+    {
+      "order": 2,
+      "name": "Services",
+      "purpose": "Explain the main travel services offered by the agency.",
+      "approximateBounds": {
+        "left": "154px (9.625rem)",
+        "top": "966px (60.375rem)",
+        "width": "1228px (76.75rem)",
+        "height": "525px (32.8125rem)"
+      },
+      "layout": "Centered heading followed by four service categories arranged horizontally.",
+      "visualStyling": "Mostly open space with one emphasized service card. Small plus-sign decoration appears near the upper-right edge.",
+      "childElements": [
+        "Category label",
+        "We Offer Best Services heading",
+        "Calculated Weather service",
+        "Best Flights highlighted service",
+        "Local Events service",
+        "Customization service"
+      ],
+      "serviceCards": [
+        "Calculated Weather",
+        "Best Flights",
+        "Local Events",
+        "Customization"
+      ]
+    },
+    {
+      "order": 3,
+      "name": "Destinations",
+      "purpose": "Show popular travel destinations with imagery, pricing, and trip duration.",
+      "approximateBounds": {
+        "left": "173px (10.8125rem)",
+        "top": "1614px (100.875rem)",
+        "width": "1102px (68.875rem)",
+        "height": "617px (38.5625rem)"
+      },
+      "layout": "Centered section label and heading above three equal destination cards in a horizontal row.",
+      "visualStyling": "Large rounded destination images with a white information panel attached at the bottom. Cards use soft depth and clean spacing.",
+      "childElements": [
+        "Destinations label",
+        "Top destinations heading",
+        "Rome, Italy card",
+        "London, UK card",
+        "Full Europe card",
+        "Decorative vertical shape at the right edge"
+      ],
+      "destinationCards": [
+        {
+          "name": "Rome, Italy",
+          "approximateBounds": "315px x 457px (19.6875rem x 28.5625rem)",
+          "metadata": ["10 Days Trip", "$5.42k"]
+        },
+        {
+          "name": "London, UK",
+          "approximateBounds": "315px x 457px (19.6875rem x 28.5625rem)",
+          "metadata": ["12 Days Trip", "$4.2k"]
+        },
+        {
+          "name": "Full Europe",
+          "approximateBounds": "315px x 457px (19.6875rem x 28.5625rem)",
+          "metadata": ["28 Days Trip", "$15k"]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "name": "Book A Trip",
+      "purpose": "Explain how customers can complete a booking in three simple steps and reinforce the service with a trip summary card.",
+      "approximateBounds": {
+        "left": "186px (11.625rem)",
+        "top": "2417px (151.0625rem)",
+        "width": "1114px (69.625rem)",
+        "height": "492px (30.75rem)"
+      },
+      "layout": "Two-column section. Steps are stacked on the left. A large trip preview card and smaller ongoing-trip card overlap on the right.",
+      "visualStyling": "White cards with generous rounded corners, subtle shadows, circular icon backgrounds, and a pale decorative ellipse behind the illustration.",
+      "childElements": [
+        "Easy and Fast label",
+        "Book your next trip in 3 easy steps heading",
+        "Choose Destination step",
+        "Make Payment step",
+        "Reach Airport on Selected Date step",
+        "Trip To Greece preview card",
+        "Trip to Rome ongoing card",
+        "Progress bar",
+        "Favourite heart icon"
+      ],
+      "stepComponents": [
+        "Choose Destination",
+        "Make Payment",
+        "Reach Airport on Selected Date"
+      ]
+    },
+    {
+      "order": 5,
+      "name": "Testimonials",
+      "purpose": "Build trust by showing customer feedback and identity details.",
+      "approximateBounds": {
+        "left": "186px (11.625rem)",
+        "top": "3109px (194.3125rem)",
+        "width": "1165px (72.8125rem)",
+        "height": "356px (22.25rem)"
+      },
+      "layout": "Text block on the left and layered testimonial cards on the right, with vertical pagination controls at the far right.",
+      "visualStyling": "Large dark heading, white elevated card in front, lighter bordered card behind, circular profile image, and minimal pagination.",
+      "childElements": [
+        "Testimonials label",
+        "What people say about Us heading",
+        "Customer avatar",
+        "Review quote",
+        "Customer name",
+        "Customer location or job title",
+        "Vertical pagination control"
+      ],
+      "testimonialContent": {
+        "primaryCustomer": "Mike Taylor",
+        "primaryLocation": "Lahore, Pakistan",
+        "secondaryCustomer": "Chris Thomas",
+        "secondaryRole": "CEO of Red Button"
+      }
+    },
+    {
+      "order": 6,
+      "name": "Partner Logos",
+      "purpose": "Display trusted travel or business partners.",
+      "approximateBounds": {
+        "left": "186px (11.625rem)",
+        "top": "3561px (222.5625rem)",
+        "width": "1073px (67.0625rem)",
+        "height": "162px (10.125rem)"
+      },
+      "layout": "Five partner logo placements distributed across one horizontal row.",
+      "visualStyling": "Logo images use muted or luminosity treatment. One center logo sits inside a white rounded rectangle with a soft shadow.",
+      "childElements": [
+        "Partner logo 1",
+        "Partner logo 2",
+        "Featured center partner logo",
+        "Partner logo 4",
+        "Partner logo 5"
+      ]
+    },
+    {
+      "order": 7,
+      "name": "Subscription",
+      "purpose": "Collect an email address for travel news, offers, and updates.",
+      "approximateBounds": {
+        "left": "48px (3rem)",
+        "top": "3834px (239.625rem)",
+        "width": "1356px (84.75rem)",
+        "height": "490px (30.625rem)"
+      },
+      "layout": "Large centered subscription panel with heading above an email field and submit button.",
+      "visualStyling": "Very pale purple rounded panel with a distinct asymmetric corner, faint circular line decorations, and an accent send icon in the upper-right.",
+      "childElements": [
+        "Subscription heading",
+        "Email input",
+        "Email icon",
+        "Subscribe button",
+        "Send icon",
+        "Decorative plus-sign grid",
+        "Circular line patterns"
+      ],
+      "formControls": {
+        "emailInput": "421px x 68px (26.3125rem x 4.25rem)",
+        "subscribeButton": "180px x 68px (11.25rem x 4.25rem)"
+      }
+    },
+    {
+      "order": 8,
+      "name": "Footer",
+      "purpose": "Provide brand context, secondary navigation, social links, app download links, and copyright information.",
+      "approximateBounds": {
+        "left": "186px (11.625rem)",
+        "top": "4420px (276.25rem)",
+        "width": "1617.94px (101.1215rem)",
+        "height": "633.86px (39.6165rem)"
+      },
+      "layout": "Brand description at left, three navigation columns in the center, and social/app download controls on the right. Copyright is centered below.",
+      "visualStyling": "Open white footer with restrained text colors and a large pale decorative ellipse extending beyond the right edge.",
+      "childElements": [
+        "Jadoo brand title",
+        "Brand description",
+        "Company links",
+        "Contact links",
+        "More links",
+        "Social media buttons",
+        "Google Play button",
+        "Apple App Store button",
+        "Copyright notice"
+      ]
+    }
+  ],
+  "navigation": {
+    "position": "Top of the hero, approximately 47px (2.9375rem) from the design top.",
+    "layout": "Horizontal navigation aligned within a wide centered container.",
+    "items": ["Destinations", "Hotels", "Flights", "Bookings", "Login"],
+    "actions": ["Sign up", "Language selector: EN"],
+    "logo": "Jadoo wordmark positioned at the far left.",
+    "desktopSpacing": "Navigation content spans approximately 1160.58px (72.5362rem).",
+    "mobileRecommendation": "Collapse navigation items into a menu button and retain the logo plus the primary sign-up action."
+  },
+  "hero": {
+    "eyebrow": "Best Destinations Around the World",
+    "headlineTreatment": "Very large dark navy serif-style display heading with a purple accent stroke or decoration crossing the headline area.",
+    "supportingCopy": "Short muted paragraph explaining that the service helps customers discover and book trips.",
+    "primaryCta": {
+      "label": "Find out more",
+      "approximateSize": "170px x 60px (10.625rem x 3.75rem)",
+      "style": "Warm orange fill, white text, rounded corners."
+    },
+    "secondaryCta": {
+      "label": "Play Demo",
+      "style": "Text label paired with a circular play button."
+    },
+    "visual": "Large traveller illustration on the right with airplane accents and abstract background decoration."
+  },
+  "cardsAndComponents": [
+    {
+      "component": "DestinationCard",
+      "purpose": "Present destination image, title, trip duration, and price.",
+      "size": "Approximately 315px x 457px.",
+      "style": "Rounded image area with a white bottom information panel."
+    },
+    {
+      "component": "ServiceCard",
+      "purpose": "Present one travel service with an icon, title, and description.",
+      "style": "Mostly open card layout; the Best Flights variant is emphasized with a white elevated card."
+    },
+    {
+      "component": "TripSummaryCard",
+      "purpose": "Show an example booked trip.",
+      "size": "Approximately 370px x 400px.",
+      "style": "White surface, 26px radius, soft shadow, trip image, metadata, and action icons."
+    },
+    {
+      "component": "OngoingTripCard",
+      "purpose": "Show progress for another active trip.",
+      "size": "Approximately 263px x 129px.",
+      "style": "White surface, 18px radius, avatar, progress bar, and status text."
+    },
+    {
+      "component": "TestimonialCard",
+      "purpose": "Display a review and customer identity.",
+      "style": "White surface, 10px radius, subtle shadow, profile image, and muted body text."
+    },
+    {
+      "component": "SocialButton",
+      "purpose": "Link to a social network.",
+      "style": "Small circular or rounded icon control."
+    },
+    {
+      "component": "StoreButton",
+      "purpose": "Link to a mobile app store.",
+      "style": "Compact dark or branded download badge."
+    }
+  ],
+  "buttonsAndCtas": [
+    {
+      "label": "Find out more",
+      "location": "Hero",
+      "size": "170px x 60px",
+      "background": "#F1A501 or warm orange equivalent",
+      "textColor": "#FFFFFF",
+      "radius": "10px"
+    },
+    {
+      "label": "Play Demo",
+      "location": "Hero",
+      "style": "Text plus circular play icon"
+    },
+    {
+      "label": "Subscribe",
+      "location": "Subscription",
+      "size": "180px x 68px",
+      "background": "Orange gradient from approximately #FF946D to #FF7D68",
+      "textColor": "#FFFFFF",
+      "radius": "10px"
+    },
+    {
+      "label": "Sign up",
+      "location": "Top navigation",
+      "size": "102px x 40px",
+      "style": "Outlined or lightly bordered navigation button"
+    }
+  ],
+  "imagesAndIllustrations": {
+    "heroAssets": ["hero-traveller.png", "decore-3.svg", "play-button.svg"],
+    "destinationAssets": ["destination-rome.png", "destination-london.png", "destination-europe.png", "navigation.svg"],
+    "tripAssets": ["trip-greece.jpeg", "trip-rome-avatar.png", "group-589.svg", "ellipse-6.svg", "group-8.svg"],
+    "testimonialAssets": ["testimonial-avatar.png", "pagination.svg"],
+    "partnerAssets": ["logo-image-27.png", "logo-image-28.png", "logo-image-29.jpeg", "logo-image-30.png", "logo-image-31.png"],
+    "serviceIcons": ["group-9.svg", "water-sport.svg", "taxi-car.svg", "image-25.png"],
+    "decorativeAssets": ["decore.svg", "decore-1.svg", "decore-2.svg", "group-42.svg", "group-43.svg", "group-44.svg", "group-45.svg"],
+    "assetLocation": "All local image and SVG assets are stored in the assets/ directory."
+  },
+  "typography": {
+    "fontFamilies": [
+      {
+        "family": "Poppins",
+        "usage": "Navigation, labels, body copy, buttons, card metadata, and footer text",
+        "weights": [400, 500, 600, 700]
+      },
+      {
+        "family": "Volkhov",
+        "usage": "Large hero and section headings",
+        "weights": [700]
+      },
+      {
+        "family": "Open Sans",
+        "usage": "Selected button and testimonial text",
+        "weights": [400, 600]
+      },
+      {
+        "family": "Montserrat",
+        "usage": "Email input placeholder",
+        "weights": [400]
+      },
+      {
+        "family": "Roboto",
+        "usage": "Small decorative plus-sign elements",
+        "weights": [400]
+      },
+      {
+        "family": "Gilroy ExtraBold",
+        "usage": "A small progress/status text variant",
+        "weights": [800]
+      }
+    ],
+    "hierarchy": [
+      "Hero heading: approximately 84px (5.25rem), Volkhov Bold, line height approximately 89px (5.5625rem).",
+      "Section headings: approximately 50px (3.125rem), Volkhov Bold.",
+      "Subscription heading: approximately 33px (2.0625rem), Poppins SemiBold, line height 54px (3.375rem).",
+      "Footer brand title: approximately 44px (2.75rem), Poppins Medium.",
+      "Section labels: approximately 18px (1.125rem), Poppins SemiBold.",
+      "Body copy: approximately 16px (1rem), Poppins Regular, line height approximately 19.92px (1.245rem).",
+      "Navigation text: approximately 17px (1.0625rem), Poppins Medium.",
+      "Footer navigation headings: approximately 21px (1.3125rem), Poppins Bold.",
+      "Footer navigation links: approximately 18px (1.125rem), Poppins Medium."
+    ]
+  },
+  "colors": {
+    "pageBackground": "#FFFFFF",
+    "primaryHeading": "#14183E",
+    "darkBrandText": "#181E4B",
+    "bodyText": "#5E6282",
+    "secondaryText": "#84829A",
+    "cardText": "#080809",
+    "testimonialText": "#4E4E73",
+    "primaryPurple": "#8A79DF",
+    "deepPurple": "#6246E5",
+    "warmYellow": "#F0BB1F",
+    "orange": "#F15A2B",
+    "ctaOrangeLight": "#FF946D",
+    "ctaOrangeDark": "#FF7D68",
+    "teal": "#006380",
+    "lightPurplePanel": "#DFD7F9",
+    "lightGray": "#F5F5F5",
+    "borderGray": "#F7F7F7",
+    "white": "#FFFFFF",
+    "black": "#000000"
+  },
+  "spacingAndLayout": {
+    "desktopContentGutter": "Approximately 148px to 186px (9.25rem to 11.625rem).",
+    "sectionRhythm": "Large vertical gaps separate the major sections, typically 400px to 700px between section starts.",
+    "cardGap": "Destination cards are separated by approximately 35px (2.1875rem).",
+    "contentColumns": "Desktop sections commonly use a 50/50 or 45/55 split between text and visual content.",
+    "alignment": "Headings and labels are frequently centered for Services and Destinations, while Hero, Booking, and Testimonials use left-aligned text blocks.",
+    "positioning": "Use relative section wrappers with absolute positioning only for decorative artwork and intentional overlapping cards.",
+    "recommendedMaxWidth": "Approximately 1160px to 1200px (72.5rem to 75rem) for primary desktop content."
+  },
+  "borderRadius": {
+    "smallButtons": "10px (0.625rem)",
+    "serviceIconBlocks": "13px (0.8125rem)",
+    "destinationCards": "Rounded image and card corners; approximately 20px to 24px (1.25rem to 1.5rem).",
+    "tripSummaryCard": "26px (1.625rem)",
+    "ongoingTripCard": "18px (1.125rem)",
+    "testimonialCards": "10px (0.625rem)",
+    "subscriptionPanel": "20px (1.25rem) with one enlarged asymmetric corner around 129px (8.0625rem).",
+    "progressBar": "30px (1.875rem), fully pill-shaped."
+  },
+  "shadowsAndEffects": {
+    "cardShadow": "Very soft, broad shadow with approximately 0.01 to 0.02 opacity, spread over a large vertical distance.",
+    "featuredServiceShadow": "Subtle elevation around the highlighted Best Flights card.",
+    "tripCardShadow": "Soft layered shadow beneath the main trip card and ongoing trip card.",
+    "logoShadow": "Soft shadow behind the center partner logo container.",
+    "imageTreatment": "Partner logos use muted luminosity or grayscale-like treatment.",
+    "decorativeOpacity": "Subscription circular patterns and background decorations use low opacity, approximately 10% to 20%."
+  },
+  "responsiveObservations": {
+    "desktop": "The source is optimized for a 1440px desktop canvas with wide horizontal navigation and multi-column sections.",
+    "tablet": "Reduce horizontal gutters, allow destination cards to wrap, and scale the hero illustration while keeping the text readable.",
+    "mobile": "Stack hero text above the image, collapse navigation into a menu, stack service and destination cards, and place booking cards below the steps.",
+    "typography": "Use responsive reductions for the hero heading and section headings rather than allowing overflow.",
+    "decorations": "Hide or reposition oversized decorative ellipses, plus-sign grids, and airplane shapes on narrow screens.",
+    "forms": "Stack the email input and Subscribe button vertically below approximately 600px viewport width.",
+    "footer": "Convert footer columns into stacked groups or a two-column mobile layout."
+  },
+  "reusableComponents": [
+    "Header",
+    "Logo",
+    "NavigationMenu",
+    "LanguageSelector",
+    "PrimaryButton",
+    "PlayDemoButton",
+    "SectionHeading",
+    "ServiceCard",
+    "DestinationCard",
+    "BookingStep",
+    "TripSummaryCard",
+    "OngoingTripCard",
+    "TestimonialCard",
+    "PaginationDots",
+    "PartnerLogoRow",
+    "NewsletterForm",
+    "SocialLinks",
+    "AppStoreButton",
+    "FooterColumn",
+    "DecorativePattern"
+  ],
+  "importantFigmaAssets": {
+    "brand": ["logo.svg", "social.svg", "social-instagram.svg"],
+    "hero": ["hero-traveller.png", "decore-3.svg", "play-button.svg"],
+    "destinations": ["destination-rome.png", "destination-london.png", "destination-europe.png"],
+    "booking": ["trip-greece.jpeg", "trip-rome-avatar.png", "group-589.svg", "ellipse-4.svg", "ellipse-6.svg", "group-8.svg"],
+    "services": ["group-9.svg", "water-sport.svg", "taxi-car.svg", "image-25.png"],
+    "testimonials": ["testimonial-avatar.png", "pagination.svg"],
+    "partners": ["logo-image-27.png", "logo-image-28.png", "logo-image-29.jpeg", "logo-image-30.png", "logo-image-31.png"],
+    "subscription": ["group-46.svg", "group-77.svg", "group-42.svg", "group-43.svg", "group-44.svg", "group-45.svg"],
+    "note": "Asset filenames refer to the local files inside assets/."
+  },
+  "suggestedHtmlCssStructure": {
+    "html": [
+      "body",
+      "header.site-header",
+      "main",
+      "section.hero",
+      "section.services",
+      "section.destinations",
+      "section.booking",
+      "section.testimonials",
+      "section.partners",
+      "section.newsletter",
+      "footer.site-footer"
+    ],
+    "heroMarkup": "header.site-header > a.logo + nav.primary-nav + button.menu-toggle; section.hero > div.hero-copy + div.hero-art",
+    "cardMarkup": "article.card > img.card-image + div.card-content",
+    "bookingMarkup": "div.booking-layout > div.booking-steps + div.booking-visual",
+    "newsletterMarkup": "section.newsletter > div.newsletter-panel > h2 + form.newsletter-form",
+    "cssLayers": [
+      "Design tokens: colors, fonts, spacing, radii, shadows",
+      "Base reset and typography",
+      "Page container and section spacing",
+      "Header and navigation",
+      "Hero layout and decorations",
+      "Cards and repeated components",
+      "Forms and buttons",
+      "Footer",
+      "Responsive breakpoints"
+    ],
+    "recommendedCssApproach": "Use semantic class names, CSS custom properties for design tokens, CSS Grid for section layouts, Flexbox for navigation and card metadata, and absolute positioning only for decorative or overlapping artwork."
+  }
+}

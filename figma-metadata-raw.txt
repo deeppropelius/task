@@ -1,0 +1,344 @@
+<symbol id="108:84" name="Travel Agency Landing Page UI" x="1035" y="-385" width="1440" height="4774">
+  <frame id="1:501" name="footer" x="186" y="4420" width="1617.944580078125" height="633.8642578125">
+    <frame id="1:560" name="Decore" x="1803.944580078125" y="4557" width="478.9445495605469" height="496.8642272949219">
+      <ellipse id="1:561" name="Ellipse 8" x="1803.944580078125" y="4557" width="478.9445495605469" height="496.8642272949219" />
+    </frame>
+    <frame id="108:80" name="Outbound" x="1032" y="4441" width="214" height="147">
+      <frame id="1:502" name="Social" x="1034" y="4441" width="177" height="45">
+        <frame id="108:76" name="Social" x="1170" y="4443" width="41" height="41" />
+        <frame id="108:74" name="Social" x="1034" y="4441" width="41" height="41" />
+        <frame id="108:73" name="Social" x="1100" y="4441" width="45" height="45">
+          <vector id="1:505" name="Background" x="1100" y="4441" width="45" height="45" />
+          <frame id="1:511" name="instagram 1" x="1115" y="4455" width="16" height="16" />
+        </frame>
+      </frame>
+      <frame id="108:79" name="Discover" x="1032" y="4512" width="214" height="76">
+        <text id="1:520" name="Discover our app" x="1034" y="4512" width="173" height="25" />
+        <frame id="108:77" name="Google Play" x="1032" y="4553" width="107" height="35">
+          <rounded-rectangle id="1:519" name="Rectangle 23" x="1032" y="4553" width="107" height="35" />
+          <frame id="1:521" name="google-play 1" x="1049" y="4560" width="20" height="20" />
+          <vector id="108:3463" name="Vector" x="1074.2400016784668" y="4562.2880001068115" width="53.64087677001953" height="14.800000190734863" />
+        </frame>
+        <frame id="108:78" name="Play Store" x="1146" y="4553" width="100" height="35" />
+      </frame>
+    </frame>
+    <frame id="108:81" name="Company Desc" x="186" y="4420" width="207" height="133">
+      <text id="1:535" name="Jadoo." x="186" y="4420" width="152" height="66" />
+      <text id="1:536" name="Book your trip in minute, get full Control for much longer." x="186" y="4505" width="207" height="48" />
+    </frame>
+    <frame id="108:82" name="Nav Columns" x="476" y="4441" width="474" height="153">
+      <frame id="108:70" name="Nav Row" x="476" y="4441" width="108" height="151">
+        <text id="1:537" name="Company" x="476" y="4441" width="108" height="26" />
+        <text id="1:540" name="About" x="476" y="4501" width="55" height="22" />
+        <text id="1:543" name="Careers" x="476" y="4535" width="72" height="22" />
+        <text id="1:546" name="Mobile" x="476" y="4570" width="61" height="22" />
+      </frame>
+      <frame id="108:71" name="Nav Row" x="656" y="4441" width="89" height="151">
+        <text id="1:538" name="Contact" x="657" y="4441" width="88" height="26" />
+        <text id="1:541" name="Help/FAQ" x="656" y="4499" width="86" height="22" />
+        <text id="1:544" name="Press" x="656" y="4535" width="48" height="22" />
+        <text id="1:547" name="Affilates" x="656" y="4570" width="74" height="22" />
+      </frame>
+      <frame id="108:72" name="Nav Row" x="836" y="4441" width="114" height="153">
+        <text id="1:539" name="More" x="836" y="4441" width="55" height="26" />
+        <text id="1:542" name="Airlinefees" x="836" y="4501" width="95" height="22" />
+        <text id="1:545" name="Airline" x="836" y="4537" width="57" height="22" />
+        <text id="1:548" name="Low fare tips" x="836" y="4572" width="114" height="22" />
+      </frame>
+    </frame>
+    <text id="1:549" name="Copyrights" x="616" y="4678" width="203" height="17" />
+  </frame>
+  <frame id="1:440" name="subscribe section" x="48" y="3834" width="1356" height="490">
+    <frame id="1:441" name="Group 5" x="1251" y="4158" width="153" height="166">
+      <text id="1:442" name="+" x="1251" y="4298" width="13" height="26" />
+      <text id="1:443" name="+" x="1286" y="4263" width="13" height="26" />
+      <text id="1:444" name="+" x="1321" y="4158" width="13" height="26" />
+      <text id="1:445" name="+" x="1321" y="4193" width="13" height="26" />
+      <text id="1:446" name="+" x="1321" y="4228" width="13" height="26" />
+      <text id="1:447" name="+" x="1321" y="4263" width="13" height="26" />
+      <text id="1:448" name="+" x="1321" y="4298" width="13" height="26" />
+      <text id="1:449" name="+" x="1356" y="4158" width="13" height="26" />
+      <text id="1:450" name="+" x="1356" y="4193" width="13" height="26" />
+      <text id="1:451" name="+" x="1356" y="4228" width="13" height="26" />
+      <text id="1:452" name="+" x="1356" y="4263" width="13" height="26" />
+      <text id="1:453" name="+" x="1356" y="4298" width="13" height="26" />
+      <text id="1:454" name="+" x="1391" y="4158" width="13" height="26" />
+      <text id="1:455" name="+" x="1391" y="4193" width="13" height="26" />
+      <text id="1:456" name="+" x="1391" y="4228" width="13" height="26" />
+      <text id="1:457" name="+" x="1391" y="4263" width="13" height="26" />
+      <text id="1:458" name="+" x="1391" y="4298" width="13" height="26" />
+    </frame>
+    <frame id="1:459" name="Group 78" x="48" y="3847" width="1257" height="407">
+      <rounded-rectangle id="1:460" name="Rectangle 164" x="1305" y="3847" width="1170" height="407" />
+      <frame id="1:461" name="Mask Group" x="1041" y="3847" width="264" height="351.521728515625">
+        <rounded-rectangle id="1:462" name="Rectangle 154" x="1041" y="3847" width="264" height="351.521728515625" />
+        <frame id="1:463" name="Group 42" x="1102.6956520080566" y="3829.7826080322266" width="284.8043518066406" height="290.876953125">
+          <ellipse id="1:464" name="Ellipse 19" x="1187.711627960205" y="3933.0166549682617" width="184.60667419433594" height="184.60667419433594" />
+          <ellipse id="1:465" name="Ellipse 20" x="1169.493808746338" y="3912.369758605957" width="206.4679718017578" height="206.4679718017578" />
+          <ellipse id="1:466" name="Ellipse 21" x="1153.7052459716797" y="3894.759346008301" width="225.90023803710938" height="225.90023803710938" />
+          <ellipse id="1:467" name="Ellipse 22" x="1139.1311340332031" y="3874.7196769714355" width="242.9034881591797" height="242.9034881591797" />
+          <ellipse id="1:468" name="Ellipse 23" x="1125.1640720367432" y="3855.2874965667725" width="259.2994689941406" height="259.2994689941406" />
+          <ellipse id="1:469" name="Ellipse 24" x="1102.6956520080566" y="3829.7826080322266" width="284.8043518066406" height="284.8043518066406" />
+        </frame>
+      </frame>
+      <frame id="1:470" name="Mask Group" x="528.0000305175781" y="3893" width="480.0000157798113" height="361.00002098146615">
+        <rounded-rectangle id="1:471" name="Rectangle 154" x="528.0000305175781" y="3893" width="480.0000157798113" height="361.00002098146615" />
+        <frame id="1:472" name="Group 42" x="551.5100403504559" y="3978.7315378928897" width="397.1902025702036" height="389.44838161954704">
+          <ellipse id="1:473" name="Ellipse 19" x="410.5447032376279" y="4094.984484306783" width="252.0788837149762" height="252.43564944645186" />
+          <ellipse id="1:474" name="Ellipse 20" x="438.737827190321" y="4070.072818669026" width="281.93031019256887" height="282.3293275091114" />
+          <ellipse id="1:475" name="Ellipse 21" x="462.7846955046325" y="4048.483342181086" width="308.46491828766784" height="308.9014722236634" />
+          <ellipse id="1:476" name="Ellipse 22" x="490.1489580029591" y="4028.5542280818054" width="331.68272325906514" height="332.152144625265" />
+          <ellipse id="1:477" name="Ellipse 23" x="516.6833788512276" y="4009.455298882775" width="354.0713045613513" height="354.57240317226024" />
+          <ellipse id="1:478" name="Ellipse 24" x="551.5100403504559" y="3978.7315378928897" width="388.8979662420786" height="389.44838125708156" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:479" name="Group 76" x="387" y="4108" width="421" height="68">
+      <rounded-rectangle id="1:480" name="Rectangle 23" x="387" y="4108" width="421" height="68" />
+      <text id="1:481" name="Your email" x="453" y="4133" width="74" height="17" />
+      <frame id="1:482" name="Group 46" x="418" y="4133" width="21" height="18" />
+    </frame>
+    <frame id="1:485" name="Group 57" x="832" y="4108" width="180" height="68">
+      <rounded-rectangle id="1:486" name="Rectangle 1" x="832" y="4108" width="180" height="68" />
+      <text id="1:487" name="Subscribe" x="882" y="4130" width="80" height="23" />
+    </frame>
+    <text id="1:488" name="Subscribe to get information, latest news and other interesting offers about Jadoo" x="280" y="3926" width="881" height="108" />
+    <frame id="1:489" name="Group 77" x="1255" y="3834" width="70" height="70" />
+  </frame>
+  <frame id="1:432" name="logos" x="186" y="3561" width="1073" height="162">
+    <rounded-rectangle id="1:433" name="image 27" x="186" y="3577" width="130" height="130" />
+    <rounded-rectangle id="1:434" name="image 28" x="393" y="3588" width="172.85714721679688" height="110" />
+    <frame id="1:435" name="Group 63" x="616" y="3561" width="241" height="162">
+      <rounded-rectangle id="1:436" name="Rectangle 165" x="616" y="3603" width="241" height="86" />
+      <rounded-rectangle id="1:437" name="image 29" x="656" y="3561" width="162" height="162" />
+    </frame>
+    <rounded-rectangle id="1:438" name="image 30" x="904" y="3628" width="162" height="32" />
+    <rounded-rectangle id="1:439" name="image 31" x="1165" y="3632" width="94" height="21" />
+  </frame>
+  <frame id="1:411" name="testimonials section" x="186" y="3109" width="1165" height="356">
+    <text id="1:412" name="Subheading" x="186" y="3118" width="128" height="27" />
+    <text id="1:413" name="Heading" x="186" y="3153" width="409" height="130" />
+    <frame id="1:414" name="Group 61" x="186" y="3365" width="87" height="12" />
+    <frame id="1:418" name="Group 64" x="682" y="3109" width="669" height="356">
+      <frame id="1:419" name="Group 62" x="769" y="3233" width="502" height="232">
+        <rounded-rectangle id="1:420" name="Rectangle 18" x="769" y="3233" width="502" height="232" />
+        <text id="1:421" name="“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”" x="803" y="3249" width="402" height="96" />
+        <text id="1:422" name="Chris Thomas" x="803" y="3389" width="127" height="27" />
+        <text id="1:423" name="CEO of Red Button" x="803" y="3422" width="127" height="21" />
+      </frame>
+      <frame id="1:424" name="Group 62" x="682" y="3109" width="541" height="279">
+        <rounded-rectangle id="1:425" name="Rectangle 18" x="719" y="3143" width="504" height="245" />
+        <text id="1:426" name="Testimonail" x="753" y="3171" width="402" height="96" />
+        <ellipse id="1:427" name="Image" x="682" y="3109" width="68" height="68" />
+        <text id="1:428" name="Mike taylor" x="753" y="3301" width="101" height="27" />
+        <text id="1:429" name="Lahore, Pakistan" x="753" y="3333" width="116" height="21" />
+      </frame>
+      <frame id="108:69" name="Pagination" x="1337" y="3249.5" width="14" height="71.5" />
+    </frame>
+  </frame>
+  <frame id="1:188" name="Book a trip" x="186" y="2417" width="1114" height="492">
+    <text id="1:192" name="Heading" x="186" y="2459" width="511" height="130" />
+    <frame id="108:67" name="Image" x="815" y="2436" width="485" height="459">
+      <frame id="1:550" name="Group 589" x="875" y="2436" width="354" height="367">
+        <ellipse id="1:189" name="Ellipse 8" x="875" y="2803" width="354" height="367" />
+      </frame>
+      <frame id="1:193" name="Image" x="815" y="2495" width="485" height="400">
+        <frame id="1:194" name="Group 5" x="815" y="2495" width="370" height="400">
+          <rounded-rectangle id="1:195" name="Rectangle 16" x="815" y="2495" width="370" height="400" />
+          <frame id="1:196" name="OPTIONS" x="843" y="2778" width="139" height="36">
+            <frame id="1:197" name="LEAF" x="0" y="0" width="36" height="36">
+              <ellipse id="1:198" name="Ellipse 4" x="0" y="0" width="36" height="36" />
+              <frame id="1:199" name="leaf 1" x="11" y="12" width="14" height="14" />
+            </frame>
+            <frame id="1:206" name="send" x="103" y="0" width="36" height="36">
+              <ellipse id="1:207" name="Ellipse 3" x="103" y="0" width="36" height="36" />
+              <frame id="1:208" name="send 2" x="114" y="12" width="14" height="14" />
+            </frame>
+            <frame id="1:211" name="map icon" x="54" y="0" width="36" height="36">
+              <ellipse id="1:212" name="Ellipse 5" x="54" y="0" width="36" height="36" />
+              <frame id="1:213" name="map 1" x="64" y="11" width="14" height="14" />
+            </frame>
+          </frame>
+          <frame id="1:217" name="building 1" x="856" y="2843" width="16" height="16" />
+          <text id="1:234" name="24 people going" x="871" y="2844" width="126" height="20" />
+          <text id="1:235" name="14-29 June" x="840" y="2737" width="88" height="20" />
+          <text id="1:236" name="by Robbin joseph" x="944" y="2737" width="138" height="20" />
+          <rounded-rectangle id="1:237" name="Rectangle 17" x="840" y="2515" width="321" height="161" />
+          <text id="1:238" name="Trip To Greece" x="840" y="2702" width="134" height="22" />
+          <line id="1:239" name="Line 3" x="931" y="2738" width="0" height="16" />
+        </frame>
+        <frame id="1:240" name="Group 4" x="1037" y="2714" width="263" height="129">
+          <rounded-rectangle id="1:241" name="Rectangle 18" x="1037" y="2714" width="263" height="129" />
+          <text id="1:242" name="Trip to rome" x="1118" y="2753" width="107" height="22" />
+          <text id="1:243" name="40% completed" x="1117" y="2789" width="101" height="17" />
+          <ellipse id="1:244" name="Ellipse 6" x="1057" y="2732" width="50" height="50" />
+          <frame id="108:57" name="Mask Group" x="1057" y="2732" width="50" height="50">
+            <ellipse id="108:53" name="Ellipse 7" x="1057" y="2732" width="50" height="50" />
+            <rounded-rectangle id="108:56" name="image 32" x="1044" y="2731" width="74" height="66" />
+          </frame>
+          <text id="1:245" name="Ongoing" x="1119" y="2730" width="58" height="17" />
+          <frame id="1:246" name="Group 3" x="1119" y="2816" width="156" height="5" />
+        </frame>
+        <frame id="1:275" name="heart (6) 1" x="1140" y="2844.70751953125" width="19.999996185302734" height="18.584728240966797" />
+      </frame>
+    </frame>
+    <text id="1:274" name="Subheading" x="189" y="2417" width="126" height="27" />
+    <frame id="108:68" name="Values" x="186" y="2620" width="395" height="289">
+      <frame id="108:64" name="Value" x="186" y="2620" width="395" height="64">
+        <frame id="1:252" name="Group 7" x="186" y="2624" width="47" height="48" />
+        <text id="1:268" name="Choose Destination" x="254" y="2620" width="161" height="20" />
+        <text id="1:269" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus." x="254" y="2644" width="327" height="40" />
+      </frame>
+      <frame id="108:66" name="Value" x="186" y="2844" width="395" height="65">
+        <frame id="1:258" name="Group 11" x="186" y="2848" width="47" height="48" />
+        <text id="1:271" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus." x="254" y="2869" width="327" height="40" />
+        <text id="1:273" name="Reach Airport on Selected Date" x="254" y="2844" width="254" height="20" />
+      </frame>
+      <frame id="108:65" name="Value" x="186" y="2732" width="395" height="64">
+        <text id="1:270" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus." x="254" y="2756" width="327" height="40" />
+        <text id="1:272" name="Make Payment" x="254" y="2732" width="124" height="20" />
+        <frame id="1:279" name="Group 12" x="186" y="2736" width="47" height="48" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:154" name="Destinations" x="173" y="1614" width="1102" height="617">
+    <vector id="1:157" name="Decore" x="1179" y="1932" width="96" height="252" />
+    <frame id="1:158" name="Destination" x="898" y="1774" width="315" height="457">
+      <rounded-rectangle id="1:159" name="Rectangle 14" x="899" y="1774" width="314" height="457" />
+      <frame id="1:160" name="card 5" x="898" y="2101" width="315" height="130">
+        <rounded-rectangle id="1:161" name="Rectangle 15" x="898" y="2101" width="315" height="130" />
+        <text id="1:162" name="Full Europe" x="918" y="2129" width="98" height="22" />
+        <frame id="1:163" name="navigation 1" x="918" y="2169" width="20" height="20" />
+        <text id="1:166" name="28 Days Trip" x="949" y="2169" width="99" height="20" />
+        <text id="1:167" name="$15k" x="1148" y="2129" width="40" height="22" />
+      </frame>
+    </frame>
+    <frame id="1:168" name="Destination" x="173" y="1774" width="315" height="457">
+      <rounded-rectangle id="1:169" name="Rectangle 14" x="174" y="1774" width="314" height="457" />
+      <frame id="1:170" name="card 2" x="173" y="2101" width="315" height="130">
+        <rounded-rectangle id="1:171" name="Rectangle 15" x="173" y="2101" width="315" height="130" />
+        <text id="1:172" name="Rome, Italty" x="193" y="2128" width="107" height="22" />
+        <frame id="1:173" name="navigation 1" x="193" y="2169" width="20" height="20" />
+        <text id="1:176" name="10 Days Trip" x="227" y="2169" width="95" height="20" />
+        <text id="1:177" name="$5,42k" x="403" y="2129" width="60" height="22" />
+      </frame>
+    </frame>
+    <frame id="1:178" name="Destination" x="523" y="1774" width="315" height="457">
+      <rounded-rectangle id="1:179" name="Rectangle 14" x="524" y="1774" width="314" height="457" />
+      <frame id="1:180" name="card 4" x="523" y="2101" width="315" height="130">
+        <rounded-rectangle id="1:181" name="Rectangle 15" x="523" y="2101" width="315" height="130" />
+        <text id="1:182" name="London, UK" x="543" y="2128" width="100" height="22" />
+        <frame id="1:183" name="navigation 1" x="543" y="2169" width="20" height="20" />
+        <text id="1:186" name="12 Days Trip" x="578" y="2169" width="94" height="20" />
+        <text id="1:187" name="$4.2k" x="763" y="2129" width="49" height="22" />
+      </frame>
+    </frame>
+    <text id="1:155" name="Subheading" x="632" y="1614" width="100" height="27" />
+    <text id="1:156" name="Heading" x="490" y="1649" width="418" height="65" />
+  </frame>
+  <frame id="1:300" name="Services" x="154" y="966" width="1228" height="525">
+    <frame id="1:301" name="Group 4" x="1229" y="966" width="153" height="166">
+      <text id="1:302" name="+" x="1229" y="966" width="13" height="26" />
+      <text id="1:303" name="+" x="1229" y="1001" width="13" height="26" />
+      <text id="1:304" name="+" x="1229" y="1036" width="13" height="26" />
+      <text id="1:305" name="+" x="1264" y="966" width="13" height="26" />
+      <text id="1:306" name="+" x="1264" y="1001" width="13" height="26" />
+      <text id="1:307" name="+" x="1264" y="1036" width="13" height="26" />
+      <text id="1:308" name="+" x="1264" y="1071" width="13" height="26" />
+      <text id="1:309" name="+" x="1299" y="966" width="13" height="26" />
+      <text id="1:310" name="+" x="1299" y="1001" width="13" height="26" />
+      <text id="1:311" name="+" x="1299" y="1036" width="13" height="26" />
+      <text id="1:312" name="+" x="1299" y="1071" width="13" height="26" />
+      <text id="1:313" name="+" x="1299" y="1106" width="13" height="26" />
+      <text id="1:314" name="+" x="1334" y="966" width="13" height="26" />
+      <text id="1:315" name="+" x="1334" y="1001" width="13" height="26" />
+      <text id="1:316" name="+" x="1334" y="1036" width="13" height="26" />
+      <text id="1:317" name="+" x="1334" y="1071" width="13" height="26" />
+      <text id="1:318" name="+" x="1334" y="1106" width="13" height="26" />
+      <text id="1:319" name="+" x="1369" y="966" width="13" height="26" />
+      <text id="1:320" name="+" x="1369" y="1001" width="13" height="26" />
+      <text id="1:321" name="+" x="1369" y="1036" width="13" height="26" />
+      <text id="1:322" name="+" x="1369" y="1071" width="13" height="26" />
+      <text id="1:323" name="+" x="1369" y="1106" width="13" height="26" />
+    </frame>
+    <text id="1:324" name="CATEGORY" x="652" y="974" width="98" height="27" />
+    <text id="1:325" name="We Offer Best Services" x="428" y="1011" width="547" height="65" />
+    <frame id="1:326" name="Category Active" x="382" y="1142.0941162109375" width="302" height="348.9058837890625">
+      <rounded-rectangle id="1:327" name="Rectangle 157" x="382" y="1391" width="100" height="100" />
+      <rounded-rectangle id="1:328" name="Rectangle 6" x="417" y="1144" width="267" height="314" />
+      <text id="1:329" name="Engrossed listening. Park gate sell they west hard for the." x="461" y="1335" width="181" height="78" />
+      <text id="1:330" name="Best Flights" x="491" y="1293" width="111" height="27" />
+      <frame id="1:331" name="Group 51" x="466.2146759033203" y="1142.0941162109375" width="166.87429809570312" height="153.33177185058594" />
+    </frame>
+    <frame id="1:356" name="Category" x="154" y="1186" width="190" height="227">
+      <frame id="1:357" name="Group 48" x="207" y="1186" width="92.00000762939453" height="78" />
+      <text id="1:386" name="Built Wicket longer admire do barton vanity itself do in it." x="159" y="1335" width="181" height="78" />
+      <text id="1:387" name="Calculated Weather" x="154" y="1293" width="190" height="27" />
+    </frame>
+    <frame id="1:388" name="Category" x="763" y="1184" width="181" height="229">
+      <frame id="1:389" name="Group 50" x="829" y="1184" width="67.00000762939453" height="75">
+        <rounded-rectangle id="1:390" name="Rectangle 159" x="896" y="1184" width="50.00000809841299" height="49.00000055644193" />
+        <rounded-rectangle id="1:391" name="image 25" x="829" y="1190" width="40" height="69" />
+      </frame>
+      <text id="1:392" name="Barton vanity itself do in it. Preferd to men it engrossed listening." x="763" y="1335" width="181" height="78" />
+      <text id="1:393" name="Local Events" x="792" y="1293" width="120" height="27" />
+    </frame>
+    <frame id="1:394" name="Category" x="1062" y="1197" width="181" height="216">
+      <frame id="1:395" name="Group 49" x="1125" y="1197" width="77" height="66" />
+      <text id="1:403" name="We deliver outsourced aviation services for military customers" x="1062" y="1335" width="181" height="78" />
+      <text id="1:404" name="Customization" x="1082" y="1293" width="140" height="27" />
+    </frame>
+  </frame>
+  <frame id="108:63" name="Hero" x="-420" y="-149" width="1922.306884765625" height="1018">
+    <frame id="1:551" name="Decore" x="-420" y="-149" width="1922.306884765625" height="872.584228515625">
+      <ellipse id="1:552" name="Ellipse 8" x="-420" y="-59.835540771484375" width="478.9445495605469" height="496.8642272949219" />
+      <vector id="101:4" name="Decore" x="736" y="-149" width="766.306884765625" height="872.584228515625" />
+    </frame>
+    <frame id="1:135" name="Top Nav" x="140.91998291015625" y="47" width="1160.5799560546875" height="40">
+      <frame id="1:136" name="Logo" x="140.91998291015625" y="48.695998191833496" width="114.91194915771484" height="33.99400329589844" />
+      <text id="1:139" name="Nav Item" x="863" y="56" width="74" height="22" />
+      <text id="108:50" name="Nav Item" x="748" y="56" width="53" height="22" />
+      <text id="108:51" name="Nav Item" x="632.9999694824219" y="56" width="51" height="22" />
+      <text id="108:52" name="Nav Item" x="477.9999694824219" y="56" width="100" height="22" />
+      <text id="1:140" name="Nav Item" x="1023" y="56" width="44" height="22" />
+      <frame id="1:142" name="Button" x="1119" y="47" width="102" height="40">
+        <text id="1:143" name="Sign up" x="1141" y="56" width="59" height="22" />
+        <rounded-rectangle id="1:144" name="Rectangle 4" x="1119" y="47" width="102" height="40" />
+      </frame>
+      <frame id="108:62" name="Dropdown" x="1262.9999389648438" y="56" width="38.5" height="22">
+        <text id="1:141" name="EN" x="1262.9999389648438" y="56" width="23" height="22" />
+        <vector id="1:145" name="Vector 1" x="1292.4999389648438" y="64.5" width="9" height="4.5" />
+      </frame>
+    </frame>
+    <frame id="108:61" name="Hero Content" x="148" y="105" width="1200.874267578125" height="764">
+      <frame id="1:146" name="Desc" x="148" y="217" width="630" height="535">
+        <frame id="108:59" name="CTA" x="148" y="692" width="379" height="60">
+          <frame id="1:126" name="CTA" x="148" y="692" width="170" height="60">
+            <rounded-rectangle id="1:127" name="Rectangle 23" x="148" y="692" width="170" height="60" />
+            <text id="1:128" name="Find out more" x="175" y="711" width="117" height="23" />
+          </frame>
+          <frame id="1:570" name="Play Demo" x="362" y="696" width="165" height="52">
+            <text id="1:129" name="Play Demo" x="435" y="711" width="92" height="26" />
+            <frame id="1:131" name="Play button" x="362" y="696" width="52" height="52" />
+          </frame>
+        </frame>
+        <text id="1:124" name="Tagline" x="150" y="217" width="410" height="30" />
+        <text id="1:125" name="Desc" x="148" y="568" width="477" height="90" />
+        <frame id="1:121" name="Decore" x="393" y="340" width="385" height="12">
+          <rounded-rectangle id="1:122" name="Rectangle 36" x="393" y="340" width="385" height="12" />
+          <vector id="1:123" name="Vector" x="412.1617202758789" y="312.606201171875" width="408.33088458087605" height="103.32856895623422" />
+        </frame>
+        <frame id="420:4742" name="Decore" x="393" y="340" width="385" height="12">
+          <rounded-rectangle id="420:4743" name="Rectangle 36" x="393" y="340" width="385" height="12" />
+          <vector id="420:4744" name="Vector" x="412.1617202758789" y="312.606201171875" width="408.33088458087605" height="103.32856895623422" />
+        </frame>
+        <text id="1:130" name="Heading" x="150" y="271" width="545" height="267" />
+      </frame>
+      <frame id="108:60" name="Image" x="565" y="105" width="783.8743286132812" height="764">
+        <frame id="108:26" name="plane" x="1182" y="280.4305419921875" width="166.8743003940981" height="153.3317784220053" />
+        <rounded-rectangle id="108:2300" name="Traveller 1" x="565" y="105" width="765" height="764" />
+        <frame id="108:3" name="plane" x="698" y="233.4305419921875" width="166.8743003940981" height="153.3317784220053" />
+      </frame>
+    </frame>
+  </frame>
+</symbol>
