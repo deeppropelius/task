@@ -1,0 +1,30 @@
+@media (max-width:425px){
+   section{
+    flex-direction: column;
+   }
+.dtexts{
+    width: 100%;
+}
+   .dtexts h4{
+width: 100%;
+text-align: center;
+
+
+   }
+   .dtexts h1{
+    line-height: 1;
+    text-align: center;
+    
+   }
+   .dtexts p{
+    width: 100%;
+    text-align: center;
+    
+   }
+
+   .dimgs{
+    display: none;
+   }
+
+
+}
