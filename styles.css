@@ -637,3 +637,77 @@ font-size: small;
     object-fit:contain;
     object-position: center;
 }
+/* -------------------- Seventh Section----------------------------- */
+.sev{
+    margin: 5%;
+    position: relative;
+}
+.sbox{
+    overflow: hidden;
+    position: relative;
+    background-color: #DFD7F9;
+    border-radius: 20px;
+    border-top-left-radius: 167px;
+    width: 100%;
+    aspect-ratio: 1.5/.5;
+    display: flex;
+    font-family: poppins;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #5E6282;
+}
+.sbh{
+    width: 80%;
+    text-align: center;
+    z-index: 1;
+    font-size: xx-large;
+}
+.sbimg{
+    position:absolute;
+    z-index: 1;
+}
+.sdinp{
+    z-index: 2;
+    margin-top: 6%;
+    width: 60%;
+    display: flex;
+    justify-content:space-between;
+}
+.sbinp{
+    padding: 2%;
+    width: 65%;
+    border-radius: 3px;
+    border: none;
+}
+.sub{
+    width: 25%;
+background: linear-gradient(180deg, #FF946D 0%, #FF7D68 100%);
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.sbimg:nth-child(1){
+    bottom: -20%;
+    left: 2%;
+    transform: rotate(90deg);
+}
+.sbimg:nth-child(2){
+        top: 0%;
+        right: -10%;
+}
+.ssend{
+    width: 3%;
+    border-radius:50% ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    aspect-ratio: 1/1;
+color: white;
+padding: 1%;
+    position: absolute;
+    background: linear-gradient(201.65deg, #747DEF 10.27%, #5E3BE1 100%);
+    top: -5%;
+    right: -3%;
+    z-index: 2;
+}
