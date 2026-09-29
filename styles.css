@@ -306,12 +306,12 @@ margin: 0 5%;
 
 
 }
-/* <i class="fa-solid fa-paper-plane"></i> */
 
 
 /*              fourth section       */
 .fourth{
     display: flex;
+    
     
 
 }
@@ -368,12 +368,13 @@ margin: 0 5%;
 }
 
 .over{
+    z-index: 3;
     width: 60%;
     position: absolute;
     background-color: white;
     display: flex;
     border-radius: 10px;
-    right: -30%;
+    right: -25%;
     bottom: 20%;
     box-shadow: 0px 1px 20px -6px rgba(0, 0, 0, 0.3);
 
@@ -394,6 +395,7 @@ margin: 0 5%;
     aspect-ratio: 1/1;
     object-fit: cover;
     object-position: center;
+    margin-top: 20%;
 }
 .prog{
   -webkit-appearance: none; /* Resets default browser styles */
@@ -504,4 +506,110 @@ font-size: smaller;
 .ctp{
     margin: 0%;
 font-size: smaller;
+}
+/* ------------------ fifth section ------------------------------- */
+
+
+.fifth{
+    display: flex;
+    margin: 5%;
+
+}
+
+.fitext{
+    width: 50%;
+     display: flex;
+ flex-direction:column;
+ justify-content: space-evenly;
+}
+.fitp{
+    text-transform: uppercase;
+    font-family: poppins;
+}
+.fith{
+    font-family: volkhov;
+    font-size: xx-large;
+}
+.ficom{
+    width: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.coms{
+    position: relative;
+align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    aspect-ratio: 1/1;
+}
+.com{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    font-family: poppins;
+    padding:5%;
+    border-radius: 10px;
+     box-shadow: 1px 1px 5px -2px black;
+
+}
+.cp{
+    color:#5E6282;
+    font-size: x-small;
+    margin-bottom: 5%;
+}
+.cn{
+   font-weight: bolder;
+font-size: small;
+}
+.cl{
+   color: #5E6282;
+   font-size: x-small;
+}
+.cimg{
+    width: 10%;
+    aspect-ratio: 1/1;
+    top: -10%;
+    left:-5%;
+    position:absolute;
+    border-radius: 50%;
+/* horizontal | vertical | blur | spread | color */
+   box-shadow: 1px 1px 5px -2px black;
+}
+.cimg img{
+    width: 100%;
+    display: block;
+    border-radius: inherit;
+    object-fit:cover;
+}
+.f{
+  top:20%;
+    left: 10%;
+    z-index: 4;
+     transition: opacity .7s ease;
+    
+}
+
+:has(> .s:hover) > .f {
+    opacity: 0.2;
+    transition: opacity .7s ease;
+}
+
+.s{
+    z-index: 3;
+    top: 40%;
+    left:40%;
+    opacity: .2;
+    transition: opacity .7s ease;
+}
+.s:hover{
+    z-index: 10;
+    opacity: 1;
+}
+.s:hover::after{
+     opacity: .2;
+    transition: opacity .7s ease;
 }
