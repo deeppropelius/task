@@ -1,30 +1,122 @@
-@media (max-width:425px){
-   section{
-    flex-direction: column;
-   }
-.dtexts{
-    width: 100%;
-}
-   .dtexts h4{
-width: 100%;
-text-align: center;
-
+@media (max-width:700px) {
+   section {
+      flex-direction: column;
 
    }
-   .dtexts h1{
-    line-height: 1;
-    text-align: center;
-    
-   }
-   .dtexts p{
-    width: 100%;
-    text-align: center;
-    
+  
+   .navbar {
+      height: 15vh;
+      display: flex;
+      justify-content: flex-start;
    }
 
-   .dimgs{
-    display: none;
+   .navitems {
+      display: flex;
+      justify-content: center;
+      
+   }
+   .navitems ul {
+      justify-content: space-around;
+align-items: center;
+padding: 0;
+   }
+   
+
+   .dtexts {
+      width: 100%;
    }
 
+   .dtexts h4 {
+      width: 100%;
+      text-align: center;
+   }
 
+   .dbutton {
+      flex-direction: column;
+      width: 100%;
+      gap: clamp(3px, 4px, 6px);
+      align-items: center;
+      font-size: small;
+   }
+
+   .dtexts h1 {
+      line-height: 1;
+      text-align: center;
+   }
+
+   .dtexts p {
+      width: 100%;
+      text-align: center;
+
+   }
+
+   .playdemo {
+      width: 100%;
+      margin: 3%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+
+   }
+
+   .playdemo p {
+      width: fit-content;
+
+   }
+
+   .drbut {
+      height: 80%;
+      padding: 3%;
+      width: auto;
+
+   }
+
+   .dimgs {
+      display: none;
+   }
+   .cards{
+      flex-wrap: wrap;
+      flex-direction: column;
+   }
+   .card{
+      width: 60%;
+      max-width: none;
+   }
+   .fourth{
+      flex-direction: column;
+
+   }
+   .fimg{
+      width: 100%;
+   }
+   .over{
+      display: none;
+     bottom: -25%;
+     width: 120%;
+     left: -10%;
+   }
+   .ftext{
+      width: 100%;
+   }
+   .fifth{
+      flex-direction: column;
+      margin-top: 15%;
+   }
+   .fitext{
+      width: 100%;
+      text-align: center;
+   }
+   .ficom{
+      width: 100%;
+      align-items: flex-start;
+      justify-content: flex-start;
+   }
+   .fiimg {
+      display: none;
+   }
+   .sbox{
+      border-radius: 5px;
+      border-top-left-radius: 15px;
+
+   }
 }
