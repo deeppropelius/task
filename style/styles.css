@@ -318,14 +318,14 @@ section {
 
 .card h4 {
     font-family: "open san", sans-serif;
-    font-size: clamp(100%, 110%, 2rem);
+    font-size: clamp(12px, 1.7vw, 2rem);
     
 }
 
 .card p {
     font-family: "Poppins", sans-serif;
     color: #5E6282;
-    font-size: clamp(90%,90%, 1.25rem);
+    font-size:clamp(10px,1.5vw, 1.5rem);
 }
 
 
