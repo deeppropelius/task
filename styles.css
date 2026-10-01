@@ -27,6 +27,18 @@ section {
     width: 100%;
     height: 100%;
 }
+.redstroke{
+   
+    position: absolute;
+    width: 15%;
+    z-index: -2;
+
+
+}
+.redstroke img{
+    width: 100%;
+
+}
 
 .navbar {
     display: flex;
@@ -39,10 +51,11 @@ section {
     flex-wrap: nowrap;
     background-color: none;
     align-items: center;
-    z-index: 3;
+    z-index: 8;
     backdrop-filter: blur(8px);
     margin: 0;
 }
+
 
 .navlogo {
     width: 10%;
@@ -67,6 +80,7 @@ section {
 }
 
 .navitems ul {
+    padding: 0;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -154,7 +168,7 @@ section {
 
 .dtexts p {
     width: 80%;
-    font-size: clamp(1rem, 5vw, 2rem);
+    font-size: clamp(.7rem, 1.5vw, 2rem);
     font-family: 'Poppins', sans-serif;
 
 }
@@ -180,6 +194,7 @@ section {
     align-items: center;
     box-shadow: 0 10px 25px #F1A501;
     text-wrap: nowrap;
+        font-size: clamp(0.6rem, 1.5vw, 2rem);
 
 }
 
@@ -194,8 +209,7 @@ section {
     align-items: center;
     width: clamp(15%, 20%, 20%);
     height: 60%;
-    font-size: clamp(0.6rem, 0.8rem, 1.5rem);
-    aspect-ratio: 1 / 1;
+    font-size: clamp(0.6rem, 1.5vw, 2rem);    aspect-ratio: 1 / 1;
     box-shadow: 0 10px 25px #DF6951;
 
 }
@@ -279,9 +293,13 @@ section {
 }
 
 .card:hover {
-
+    transition: 0.3s ease;
+    padding: 1%  3%;
     box-shadow: 2px 2px 5px 6px rgba(0, 0, 0, 0.3);
 
+}
+.card::before {
+    transition: 0.3s ease;
 }
 
 
@@ -300,13 +318,14 @@ section {
 
 .card h4 {
     font-family: "open san", sans-serif;
-    font-size: clamp(10px, 5vw, 2rem);
+    font-size: clamp(100%, 110%, 2rem);
+    
 }
 
 .card p {
     font-family: "Poppins", sans-serif;
     color: #5E6282;
-    font-size: clamp(10px, 4vw, 1.5rem);
+    font-size: clamp(90%,90%, 1.25rem);
 }
 
 
@@ -339,7 +358,7 @@ section {
     /* horizontal | vertical | blur | spread | color */
     box-shadow: 5px 8px 6px -6px rgba(0, 0, 0, 0.3);
 
-    overflow: hidden;
+    
 
 }
 
@@ -358,7 +377,10 @@ section {
 .timg {
     width: 100%;
     height: 70%;
-    overflow: hidden;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+   
 
 }
 
@@ -366,6 +388,7 @@ section {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-radius: inherit;
 
 }
 
@@ -410,13 +433,12 @@ section {
 }
 
 .trip h4 {
-    font-size: clamp(8px, 1.5vw, 2rem);
+    font-size: clamp(8px, 1.2vw, 1.7rem);
 
     font-weight: normal;
 
 
 }
-
 
 /*--------------------------------- fourth section ------------------------- */
 .fourth {
@@ -475,7 +497,7 @@ section {
 .ftext h4 {
     font-family: poppins;
     color: #5E6282;
-     font-size:  clamp(.5rem, 5vw, 2rem);
+     font-size:  clamp(.5rem, 1.5vw, 2rem);
 
 }
 
@@ -526,8 +548,7 @@ section {
 }
 
 .prog {
-    -webkit-appearance: none;
-    /* Resets default browser styles */
+
     appearance: none;
     width: 100%;
     height: 6px;
@@ -674,12 +695,12 @@ progress::-webkit-progress-value {
 
 .rth {
     margin: 0%;
-    font-size: smaller;
+    font-size: clamp(10px, 1.5vw,1.4rem);
 }
 
 .ctp {
     margin: 0%;
-     font-size:  clamp(.5rem, 5vw, 2rem);
+     font-size:  clamp(.5rem, 1.2vw, 2rem);
 }
 
 /* ------------------ fifth section ------------------------------- */
@@ -701,7 +722,7 @@ progress::-webkit-progress-value {
 .fitp {
     text-transform: uppercase;
     font-family: poppins;
-     font-size:  clamp(.5rem, 5vw, 2.5rem);
+     font-size:  clamp(.5rem, 2vw, 2.5rem);
 }
 
 .fith {
@@ -713,7 +734,7 @@ progress::-webkit-progress-value {
     width: 50%;
     align-items: center;
     display: flex;
-    justify-content: center;
+   
 }
 
 .coms {
@@ -740,18 +761,18 @@ progress::-webkit-progress-value {
 
 .cp {
     color: #5E6282;
-     font-size:  clamp(.5rem, 5vw, 2rem);
+     font-size:  clamp(.5rem, 1.5vw, 2rem);
     margin-bottom: 5%;
 }
 
 .cn {
     font-weight: bolder;
-     font-size:  clamp(.5rem, 5vw, 1.5rem);
+     font-size:  clamp(.5rem, 1.5vw, 1.5rem);
 }
 
 .cl {
     color: #5E6282;
-     font-size:  clamp(.5rem, 5vw, 1.5rem);
+     font-size:  clamp(.5rem, 1.5vw, 1.5rem);
 }
 
 .ficimg {
@@ -796,7 +817,7 @@ progress::-webkit-progress-value {
 }
 
 .s:hover {
-    z-index: 10;
+    z-index: 5;
     opacity: 1;
 }
 
@@ -1003,7 +1024,7 @@ footer{
 .fi {
     border-radius: 50%;
     align-items: center;
-    width: 15%;
+    width: clamp(2rem, 2vw, 50px);
     aspect-ratio: 1/1;
     display: flex;
     justify-content: center;
@@ -1012,21 +1033,30 @@ footer{
 }
 
 .fi i {
-    font-size: clamp(10px, 1.5vw, 30px);
+    width: 100%;
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size: clamp(16px, 1.5vw, 30px); */
 }
 
 .fps {
+    padding: 1% 1%;
     background-color: black;
     display: flex;
     color: white;
     border-radius: 50px;
     align-items: center;
-    padding: 1%;
     justify-content: space-evenly;
-    width: 40%;
+    width: 43%;
+    height: 100%;
 
 }
-
+.fih{
+    font-size: clamp(10px, 1.5vw, 30px);
+    text-align: center;
+}
 .fit {
     display: flex;
     flex-direction: column;
@@ -1040,37 +1070,40 @@ footer{
 .store {
     display: flex;
     width: 100%;
+    height: clamp(20%, 10vw, 50%);
     justify-content: space-evenly;
 }
 
 .pas {
-    width: 20%;
+    width: clamp(10%, 10vw, 20%);
     aspect-ratio: 1/1;
     padding: .1%;
 }
 
 .pas img {
     width: 100%;
-
+    height: 100%;
+    object-fit: cover;
 }
 
 .play1 {
-    font-size: x-small;
+
     font-weight: bold;
 }
 
-.play2 {
-    font-size: x-small;
 
-}
-
-.apple1 {
-    font-size: xx-small;
-
-}
 
 .apple2 {
-    font-size: x-small;
+
     font-weight: bold;
 
+}
+
+.play1 , .play2 , .apple1 , .apple2{
+    font-size: clamp(8px, .65vw, 12px);
+    font-family: poppins;
+    text-wrap: nowrap;
+}
+.rd{
+    box-shadow: none;
 }
